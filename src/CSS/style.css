@@ -1,0 +1,70 @@
+.wrapper{
+    margin-left:10%;
+    
+
+}
+.wrapper__table{
+    border:2px solid black;
+    width:45%;
+    text-align: left;
+    margin-left:30%;
+    
+   
+}
+table th {
+    background-color: black;
+    color:white;
+    padding:1%;
+    border-width:2px;
+    
+    
+}
+table tr td{
+ border-radius: 2px;
+ border:2px solid gray;
+
+}
+.wrapper__heading{
+ text-align:center;
+  font-size:2rem;
+  text-decoration: none;
+ 
+}
+.wrapper__para{
+ text-align:center;
+ color:gray;
+ 
+ 
+}
+.wrapper__list{
+    list-style-type: none;
+    
+   
+    
+
+}
+.wrapper__form{
+   
+    width:30%;
+}
+.btn{
+    background-color: black;
+    width:15%;
+    color:white;
+    margin-left:83%;
+}
+.input1{
+
+    border-radius:solid;
+    width :98%;
+
+}
+tbody td:hover{
+    background-color: #ddd;
+}
+
+section{
+    display:flex;
+    flex-direction: row;
+    margin-left:10%;
+}
